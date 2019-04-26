@@ -324,9 +324,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>entity.name.function-call</string>
+			<string>variable.function</string>
 			<key>scope</key>
-			<string>entity.name.function-call</string>
+			<string>variable.function</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>

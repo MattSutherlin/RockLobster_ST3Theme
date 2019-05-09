@@ -246,9 +246,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Invalid – Illegal</string>
+			<string>Invalid</string>
 			<key>scope</key>
-			<string>invalid.illegal</string>
+			<string>invalid</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>

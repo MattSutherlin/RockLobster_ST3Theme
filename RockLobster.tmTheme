@@ -120,9 +120,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Keyword.Control.Hint</string>
+			<string>Keyword.Control.Attribute</string>
 			<key>scope</key>
-			<string>keyword.control.hint</string>
+			<string>keyword.control.attribute</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
